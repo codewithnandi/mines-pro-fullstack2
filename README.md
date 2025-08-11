@@ -1,1 +1,1 @@
-# mines-pro-fullstack2
+mines game
